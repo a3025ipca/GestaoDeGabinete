@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ControladorBO.Cliente">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAABAEAAiA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControladorBO.Funcionario">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgQAAAAAAACAAAIAAAAAABAAAAiA=</HashCode>
+      <FileName>Funcionario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControladorBO.Obrigacao">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAgAAAAAAAACAAAIAAAAAABAEAAiA=</HashCode>
+      <FileName>Obrigacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControladorBO.Registo">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAQAAAABgACAAAAAAAAAAAAIAAAABAAAAig=</HashCode>
+      <FileName>Registo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ControladorBO.Estado">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAEAQAAAAAAAAEAAAA=</HashCode>
+      <FileName>Registo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
